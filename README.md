@@ -17,14 +17,13 @@ My name is Esther, a student at CEDT-Chula
 ## 🛠️ Languages and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthxrs&layout=compact&theme=radical)
 
-## 📫 How to reach me
-- LinkedIn: (https://linkedin.com/in/onanong-jintawong-8721ab293/)
-- Email: therjintawong@gmail.com
+## 📫 Connect with me
+<p align="center">
+  <a href="therjintawong@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/onanong-jintawong-8721ab293/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
   
-
-
-
 
 
 
